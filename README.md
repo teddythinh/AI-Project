@@ -29,5 +29,5 @@ Contributions are not permitted.
 I had three projects to complete, however project number two is a group project, thus I can't post to Github due to privacy concerns.
 | Number | Context | Description |
 | ------ | ------- | ----------- |
-| 1 | Laboratory 1 | This project is to code some algorithms to find the shortest path.
+| 1 | Laboratory 1 | This project is to code some algorithms to find the shortest path (The code is in the `student_function.py` file).
 | 2 | Laboratory 3 | This project is to code entropy functions and some cutoff point to build the decision tree using Iterative Dichotomister 3 (ID3).
