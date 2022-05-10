@@ -26,7 +26,9 @@ Contributions are not permitted.
 ## Contents:
 
 ### Projects:
-I had three projects to complete, however project number two is a group project, thus I can't post to Github due to privacy concerns.
+
+***Note**: I had three projects to complete, however project number two is a group project, thus I can't post to Github due to privacy concerns.*
+
 | Number | Context | Description |
 | ------ | ------- | ----------- |
 | 1 | Laboratory 1 | This project is to code some algorithms to find the shortest path (The code is in the `student_function.py` file).
