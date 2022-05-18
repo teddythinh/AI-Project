@@ -21,7 +21,7 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 
 ## Contribution:
 
-Contributions are not permitted.
+Contributions are not encouraged.
 
 ## Contents:
 
