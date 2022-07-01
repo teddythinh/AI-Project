@@ -31,5 +31,5 @@ Contributions are not encouraged.
 
 | Number | Context | Description |
 | ------ | ------- | ----------- |
-| 1 | Laboratory 1 | This project is to code some algorithms to find the shortest path (The code is in the `student_function.py` file).
-| 2 | Laboratory 3 | This project is to code entropy functions and some cutoff point to build the decision tree using Iterative Dichotomister 3 (ID3).
+| 1 | [Laboratory 1](https://github.com/teddythinh/AI-Project/tree/main/Lab01-Search) | This project is to code some algorithms to find the shortest path (The code is in the `student_function.py` file).
+| 2 | [Laboratory 3](https://github.com/teddythinh/AI-Project/blob/main/Lab03-MachineLearning/DecisionTree.ipynb) | This project is to code entropy functions and some cutoff point to build the decision tree using Iterative Dichotomister 3 (ID3).
